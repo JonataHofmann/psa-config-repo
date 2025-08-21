@@ -1,4 +1,7 @@
-app
-  app_name: "teste-ms"
-  port: 3000
-  
+logging:
+  level:
+    root: INFO
+
+feature:
+  toggle:
+    payments: true
