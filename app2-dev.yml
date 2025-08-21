@@ -1,1 +1,9 @@
+spring:
+  datasource:
+    url: jdbc:postgresql://localhost:5432/app2_dev
+    username: devuser
+    password: devpass
 
+app:
+  featureX:
+    enabled: true
