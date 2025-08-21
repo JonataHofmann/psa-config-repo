@@ -6,3 +6,4 @@ spring:
 
 app:
   message: "Mensagem do APP1 (DEV)"
+  description: "Descrição mágica"
