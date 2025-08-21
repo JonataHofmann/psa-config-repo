@@ -1,0 +1,9 @@
+spring:
+  datasource:
+    url: jdbc:postgresql://prod-db:5432/app2
+    username: produser
+    password: prodpass
+
+app:
+  featureX:
+    enabled: false
